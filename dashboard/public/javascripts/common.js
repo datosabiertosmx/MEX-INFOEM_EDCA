@@ -3,7 +3,7 @@
 */
 var globals = {
     site : {
-        url : 'http://localhost',
+        url : 'http://infoem.org.mx',
         port : 3000
     }
 }
